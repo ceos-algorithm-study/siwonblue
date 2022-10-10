@@ -18,5 +18,4 @@ def solve(s):
             print('test', test)
             print('s[i:i+step]', s[i:i + step])
 
-
 solve(s)
